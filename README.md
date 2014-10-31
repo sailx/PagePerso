@@ -1,4 +1,4 @@
 PagePerso
 =========
 
-Code HTML de ma page persolle sur mes travaux en physique
+Code HTML de ma page personnelle sur mes travaux en physique.
